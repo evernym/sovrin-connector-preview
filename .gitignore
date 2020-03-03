@@ -24,7 +24,7 @@ npm-debug.log
 yarn-error.log
 
 ### OSX ###
-.DS_Store
+*.DS_Store
 
 # Android/IntelliJ
 #
